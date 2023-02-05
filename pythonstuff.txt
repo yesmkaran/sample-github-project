@@ -1,1 +1,1 @@
-Hi Karan, you've added gender recommendations text.
+Hi Karan, you've added location specific recommendations text.
